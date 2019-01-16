@@ -1,0 +1,2628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chengxinjianzhi:war" />
+      <artifact name="chengxinjianzhi:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="829559dc-33b2-430d-946a-37b2b1fdc4ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/edit_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/edit_remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/filesave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/large_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/large_clipart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/large_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/large_shapes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/large_smartart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/mini_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/mini_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/mini_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/sum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/passwordbox_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/passwordbox_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/tagbox_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/jianzhi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/banner_bd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/biao_X_h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/biao_duigouh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/bj_zhuce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/btn_shangchuan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/center-menu-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/corner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/delete_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/describeImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_11f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_65.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_67.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_71.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_73.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_biao_tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_biaochi_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/diy_tx_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/duigou_bai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/edit-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/emptyCar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-1 - 副本.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/headImg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/img-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/jiesuan_dg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/line_heng.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/line_shu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/list-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/online.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/part-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/qq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/searchSub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/shoppingImg-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/sj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/smallMirror.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/tubiao_more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/wangjimm_hui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/wangjimm_lan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/weixin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/wrz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/xg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/xg_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/login/zc_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/logo_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/logowz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/weixinhao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/chengxinjianzhi_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/chengxinjianzhi_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_Test_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chengxinjianzhi.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/ssm.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/controller/FileUploadServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/controller/LoginController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/controller/PartTimeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/dao/PartTimePositionMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/dao/SignUpMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/dao/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/filter/LoginFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/mapping/PartTimePositionMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/mapping/SignUpMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/mapping/UserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/model/PartTimePosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/model/SignUp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/modelSelf/LoginSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/modelSelf/PositionListSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/modelSelf/SignUpListSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/redisUtil/RedisCacheConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/impl/FtpFileServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/impl/PartTimeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/intf/FtpFileServiceIntf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/intf/PartTimeServiceIntf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/service/intf/UserServiceIntf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/FinalUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/Ip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/MD5Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/MemcachedUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/RedisUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/SFTPUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/UUIDGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cxjz/util/ValidationCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/generator.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-redis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cxjz.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/modifyPwd.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/register1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/jquery.easyui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/easyui/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/cxjz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/global.__1478776853__.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/modifyPwd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/html/头像上传网页 - 副本.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/ajaxfileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/base-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/cxjz/controller/LoginControllerTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/artifacts/chengxinjianzhi_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/artifacts/chengxinjianzhi_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_mybatis_mybatis_3_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_Test_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/chengxinjianzhi.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/logs/ssm.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/controller/LoginController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/controller/PartTimeController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/dao/PartTimePositionMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/dao/SignUpMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/dao/UserMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/mapping/PartTimePositionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/mapping/SignUpMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/mapping/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/model/PartTimePosition.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/model/SignUp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/model/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/modelSelf/LoginSelf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/modelSelf/PositionListSelf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/modelSelf/SignUpListSelf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/redisUtil/RedisCacheConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/service/impl/PartTimeServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/service/impl/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/service/intf/PartTimeServiceIntf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/service/intf/UserServiceIntf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/util/FinalUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/util/Ip.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/util/MemcachedUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/util/UUIDGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/java/cxjz/util/ValidationCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/generator.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/resources/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/jsp/cxjz.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/jsp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/jsp/modifyPwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/jsp/register1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.30.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/css/pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/html/cxjz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/html/global.__1478776853__.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/html/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/html/modifyPwd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/html/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/jianzhi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/banner_bd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/biao_X_h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/biao_duigouh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/bj_zhuce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/btn_shangchuan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/center-menu-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/corner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/delete_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/describeImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_11f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_biao_tx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_biaochi_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/diy_tx_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/duigou_bai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/edit-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/emptyCar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-1 - 副本.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/headImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/img-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/jiesuan_dg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/line_heng.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/line_shu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/list-icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/online.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/part-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/qq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/searchSub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/shoppingImg-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/sj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/smallMirror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/tubiao_more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/wangjimm_hui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/wangjimm_lan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/weixin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/wrz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/xg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/xg_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/login/zc_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/logo_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/logowz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/img/weixinhao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/base-common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/jquery-1.11.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/jquery.pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/main/webapp/js/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/src/test/java/cxjz/service/impl/UserServiceImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/controller/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/controller/PartTimeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/dao/PartTimePositionMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/dao/SignUpMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/dao/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/mapping/PartTimePositionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/mapping/SignUpMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/mapping/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/model/PartTimePosition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/model/SignUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/modelSelf/LoginSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/modelSelf/PositionListSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/modelSelf/SignUpListSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/service/impl/PartTimeServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/service/intf/PartTimeServiceIntf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/service/intf/UserServiceIntf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/FinalUtil$LOGIN_STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/FinalUtil$STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/FinalUtil$USER_REGIST_STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/FinalUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/Ip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/UUIDGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/cxjz/util/ValidationCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/generator.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/classes/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/jsp/cxjz.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/jsp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/jsp/modifyPwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/jsp/register1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/commons-pool-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/fastjson-1.1.41.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/hamcrest-core-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/javaee-api-7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/javax.mail-1.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/junit-4.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/mybatis-3.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/mysql-connector-java-5.1.30.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/soh-frame-1.5.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-Test-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/css/pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/html/cxjz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/html/global.__1478776853__.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/html/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/html/modifyPwd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/html/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/jianzhi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/banner_bd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/biao_X_h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/biao_duigouh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/bj_zhuce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/btn_shangchuan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/center-menu-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/corner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/delete_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/describeImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_11f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_biao_tx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_biaochi_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/diy_tx_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/duigou_bai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/edit-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/emptyCar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-1 - 副本.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/headImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/img-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/jiesuan_dg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/line_heng.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/line_shu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/list-icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/online.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/part-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/qq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/searchSub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/shoppingImg-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/sj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/smallMirror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/tubiao_more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/wangjimm_hui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/wangjimm_lan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/weixin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/wrz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/xg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/xg_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/login/zc_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/logo_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/logowz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/img/weixinhao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/base-common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/jquery-1.11.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/jquery.pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/chengxinjianzhi/js/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/controller/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/controller/PartTimeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/dao/PartTimePositionMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/dao/SignUpMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/dao/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/mapping/PartTimePositionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/mapping/SignUpMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/mapping/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/model/PartTimePosition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/model/SignUp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/modelSelf/LoginSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/modelSelf/PositionListSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/modelSelf/SignUpListSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/service/impl/PartTimeServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/service/intf/PartTimeServiceIntf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/service/intf/UserServiceIntf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/FinalUtil$LOGIN_STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/FinalUtil$STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/FinalUtil$USER_REGIST_STATE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/FinalUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/Ip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/UUIDGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/cxjz/util/ValidationCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/generator.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/classes/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chengxinjianzhi/target/test-classes/cxjz/service/impl/UserServiceImplTest.class" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9000">
+              <caret line="396" column="9" lean-forward="false" selection-start-line="396" selection-start-column="9" selection-end-line="396" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/util/FinalUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUploadServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/controller/FileUploadServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1075">
+              <caret line="68" column="64" lean-forward="false" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FtpFileServiceIntf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/service/intf/FtpFileServiceIntf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SFTPUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/util/SFTPUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="77" column="11" lean-forward="false" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>注册登录</find>
+      <find>img</find>
+      <find>debug</find>
+      <find>directory</find>
+      <find>partTimePositionList</find>
+      <find>queryPartTimePositionList</find>
+      <find>cvs</find>
+      <find>obtainHeadPic</find>
+      <find>listener</find>
+      <find>RedisUtil</find>
+      <find>redisUtil</find>
+      <find>on&gt;</find>
+      <find>uploadPic</find>
+      <find>updateFile</find>
+      <find>createNewFile</find>
+      <find>driver</find>
+      <find>commons-lang</find>
+      <find>org.springframework</find>
+      <find>spring-beans</find>
+      <find>spring-context</find>
+      <find>spring-mvc</find>
+      <find>mvc</find>
+      <find>commons-dbcp</find>
+      <find>aopalliance</find>
+      <find>test</find>
+      <find>contextLoader</find>
+      <find>spring</find>
+      <find>servlet-api</find>
+      <find>servlet</find>
+      <find>maven</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>test</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/mapping/SignUpMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/cxjz/service/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/redisUtil/RedisCacheConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/util/ValidationCode.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator.properties" />
+        <option value="$USER_HOME$/Desktop/jeasyui-mb-menu/jeasyui-mb-menu/jeasyui-mb-menu/menu_demo.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/mapping/PartTimePositionMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/html/test.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/modifyPwd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/register1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/util/MD5Utils.java" />
+        <option value="$USER_HOME$/Desktop/前端页面模板/头像上传网页.html" />
+        <option value="$USER_HOME$/Desktop/前端页面模板/头像上传网页 - 副本.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/html/头像上传网页 - 头像预览.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/html/头像上传网页 - 副本.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/mapping/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/intf/UserServiceIntf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/controller/FileUploadServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/intf/FtpFileServiceIntf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/impl/FtpFileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/util/SFTPUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/modelSelf/LoginSelf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/controller/PartTimeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/intf/PartTimeServiceIntf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/modelSelf/PositionListSelf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/service/impl/PartTimeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cxjz.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/ajaxfileupload.js" />
+        <option value="$PROJECT_DIR$/src/test/java/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cxjz/service/impl/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/test/resource/spring-placeholder.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-placeholder.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/cxjz/controller/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cxjz/util/FinalUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="chengxinjianzhi Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="chengxinjianzhi Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LossyEncoding</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cxjz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cxjz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chengxinjianzhi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cxjz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31529412" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="chengxinjianzhi" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cxjz.controller" />
+      <recent name="cxjz.service.impl" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\resources" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\test\resource" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\webapp\html" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\java\cxjz\service\intf" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\test\resource" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\resources" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\webapp\js" />
+      <recent name="D:\soft\idea_workspace\chengxinjianzhi\src\main\webapp\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.chnengxinjianzhi">
+    <configuration default="false" name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cxjz.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cxjz.util.MD5Utils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chengxinjianzhi" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoginControllerTest.isRegisted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cxjz.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="chengxinjianzhi" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cxjz.controller" />
+      <option name="MAIN_CLASS_NAME" value="cxjz.controller.LoginControllerTest" />
+      <option name="METHOD_NAME" value="isRegisted" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chengxinjianzhi" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="chnengxinjianzhi" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.28" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="chengxinjianzhi:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_chengxinjianzhi_3" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51224" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="chengxinjianzhi:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Maven.generator" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.chnengxinjianzhi" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MD5Utils" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LoginControllerTest.isRegisted" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LoginControllerTest.isRegisted" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MD5Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829559dc-33b2-430d-946a-37b2b1fdc4ba" name="Default" comment="" />
+      <created>1504795425341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504795425341</updated>
+      <workItem from="1504795430221" duration="776000" />
+      <workItem from="1505016052841" duration="13553000" />
+      <workItem from="1505139711780" duration="1721000" />
+      <workItem from="1505225826919" duration="3970000" />
+      <workItem from="1505306782905" duration="3102000" />
+      <workItem from="1505309956609" duration="4306000" />
+      <workItem from="1505362101738" duration="2506000" />
+      <workItem from="1505616211470" duration="9312000" />
+      <workItem from="1505743359443" duration="3667000" />
+      <workItem from="1505999105413" duration="4786000" />
+      <workItem from="1506075236272" duration="6833000" />
+      <workItem from="1506221406548" duration="14666000" />
+      <workItem from="1506339262309" duration="642000" />
+      <workItem from="1506426060654" duration="4301000" />
+      <workItem from="1506475912766" duration="38000" />
+      <workItem from="1507645451894" duration="2008000" />
+      <workItem from="1507811902176" duration="5502000" />
+      <workItem from="1508146880904" duration="3289000" />
+      <workItem from="1508236224190" duration="7101000" />
+      <workItem from="1508407878775" duration="1185000" />
+      <workItem from="1508410341667" duration="6459000" />
+      <workItem from="1508493716044" duration="1537000" />
+      <workItem from="1508636725922" duration="2029000" />
+      <workItem from="1508753115380" duration="8019000" />
+      <workItem from="1509011058981" duration="5241000" />
+      <workItem from="1509098821385" duration="6144000" />
+      <workItem from="1509243384541" duration="9833000" />
+      <workItem from="1509260058341" duration="377000" />
+      <workItem from="1509612515387" duration="2913000" />
+      <workItem from="1509965790379" duration="1420000" />
+      <workItem from="1510025018714" duration="75000" />
+      <workItem from="1510025210430" duration="654000" />
+      <workItem from="1510923159850" duration="5635000" />
+      <workItem from="1510969372204" duration="11196000" />
+      <workItem from="1510990046986" duration="8293000" />
+      <workItem from="1510998923798" duration="1965000" />
+      <workItem from="1511142098618" duration="6880000" />
+      <workItem from="1511159682674" duration="2377000" />
+      <workItem from="1511162406014" duration="1573000" />
+      <workItem from="1511353353624" duration="361000" />
+      <workItem from="1511779640391" duration="6501000" />
+      <workItem from="1511863663226" duration="5248000" />
+      <workItem from="1511952671367" duration="6560000" />
+      <workItem from="1512038253246" duration="4895000" />
+      <workItem from="1512645345573" duration="2834000" />
+      <workItem from="1512991348463" duration="5839000" />
+      <workItem from="1513160991964" duration="3590000" />
+      <workItem from="1513245721777" duration="5266000" />
+      <workItem from="1521090701805" duration="640000" />
+      <workItem from="1521094989643" duration="2655000" />
+      <workItem from="1526957716376" duration="331000" />
+      <workItem from="1526988545506" duration="1346000" />
+      <workItem from="1527045254072" duration="4594000" />
+      <workItem from="1527124188474" duration="411000" />
+      <workItem from="1527149018590" duration="1345000" />
+      <workItem from="1527211315423" duration="1266000" />
+      <workItem from="1527497284634" duration="1329000" />
+      <workItem from="1527556569666" duration="7968000" />
+      <workItem from="1530788491124" duration="2315000" />
+      <workItem from="1530840018445" duration="604000" />
+      <workItem from="1530926057375" duration="1512000" />
+      <workItem from="1531186335157" duration="1300000" />
+      <workItem from="1531531760605" duration="594000" />
+      <workItem from="1531878599809" duration="13521000" />
+      <workItem from="1531975384707" duration="1683000" />
+      <workItem from="1532054439972" duration="10423000" />
+      <workItem from="1532317035154" duration="135000" />
+      <workItem from="1532332685071" duration="38000" />
+      <workItem from="1533002117880" duration="2121000" />
+      <workItem from="1533087025447" duration="593000" />
+      <workItem from="1533981753134" duration="1083000" />
+      <workItem from="1535697653691" duration="92000" />
+      <workItem from="1536551406149" duration="3069000" />
+      <workItem from="1536632849872" duration="14486000" />
+      <workItem from="1536716238535" duration="5771000" />
+      <workItem from="1536801718027" duration="22104000" />
+      <workItem from="1536888141133" duration="18620000" />
+      <workItem from="1537148282337" duration="5089000" />
+      <workItem from="1537234341832" duration="1535000" />
+      <workItem from="1538985584637" duration="1344000" />
+      <workItem from="1538991440353" duration="5065000" />
+      <workItem from="1539048581770" duration="6643000" />
+      <workItem from="1539769149645" duration="2917000" />
+      <workItem from="1539826458254" duration="16899000" />
+      <workItem from="1539914518842" duration="20546000" />
+      <workItem from="1540000147698" duration="16420000" />
+      <workItem from="1540172580033" duration="12867000" />
+      <workItem from="1540262893495" duration="9925000" />
+      <workItem from="1540345679411" duration="9404000" />
+      <workItem from="1540437991339" duration="3273000" />
+      <workItem from="1540460875918" duration="7480000" />
+      <workItem from="1540519579109" duration="4922000" />
+      <workItem from="1540780531440" duration="2509000" />
+      <workItem from="1540978450711" duration="217000" />
+      <workItem from="1540980234777" duration="625000" />
+      <workItem from="1541217357158" duration="1468000" />
+      <workItem from="1541382657289" duration="841000" />
+      <workItem from="1541641471075" duration="8670000" />
+      <workItem from="1541731129394" duration="1289000" />
+      <workItem from="1541819398722" duration="989000" />
+      <workItem from="1541988453782" duration="4274000" />
+      <workItem from="1542079574241" duration="3550000" />
+      <workItem from="1542334783061" duration="5845000" />
+      <workItem from="1542353803023" duration="7141000" />
+      <workItem from="1542421842421" duration="11334000" />
+      <workItem from="1542591622564" duration="18276000" />
+      <workItem from="1542678687382" duration="5891000" />
+      <workItem from="1542763815114" duration="1962000" />
+      <workItem from="1542851091640" duration="1881000" />
+      <workItem from="1543199875603" duration="13582000" />
+      <workItem from="1543281622153" duration="15067000" />
+      <workItem from="1543369309408" duration="1196000" />
+      <workItem from="1543370614722" duration="14765000" />
+      <workItem from="1543456663944" duration="595000" />
+      <workItem from="1543476105651" duration="1968000" />
+      <workItem from="1544791242054" duration="1233000" />
+      <workItem from="1545963266140" duration="645000" />
+      <workItem from="1547031953106" duration="3793000" />
+      <workItem from="1547085740357" duration="751000" />
+      <workItem from="1547207900530" duration="116000" />
+      <workItem from="1547430014175" duration="682000" />
+      <workItem from="1547543438854" duration="1069000" />
+      <workItem from="1547604150280" duration="1113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 23m 10s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 27m 09s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 28m 50s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 37m 57s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 39m 58s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 50m 15s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 52m 23s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 16h 57m 15s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 17h 11m 01s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest_isRegisted - 2018.11.28 at 17h 12m 34s.xml">
+      <configuration name="LoginControllerTest.isRegisted" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="596593000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1052" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12080537" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1943557" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25921908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4099783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42996743" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.324295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/util/DateUtil.class</url>
+          <line>598</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/model/Result.class</url>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="233" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cxjz/service/impl/UserServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cxjz/service/impl/LoginControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/service/intf/UserServiceIntf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../maven/commons-io/commons-io/2.4/commons-io-2.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/model/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/dao/interfaces/CfgSequenceMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/controller/BaseFrameController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/soh-frame-1.5.16.jar!/com/soh/frame/cache/Cache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/controller/PartTimeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="103" column="17" lean-forward="false" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-beans/4.0.2.RELEASE/spring-beans-4.0.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resource/jdbc.properties" />
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/spring-placeholder.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-placeholder.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generator.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-test/4.0.2.RELEASE/spring-test-4.0.2.RELEASE-sources.jar!/org/springframework/test/context/CacheAwareContextLoaderDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/generator.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="89" column="12" lean-forward="true" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/chengxinjianzhi/WEB-INF/classes/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/cxjz/controller/LoginControllerTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chengxinjianzhi.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cxjz/controller/LoginControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-beans/4.0.2.RELEASE/spring-beans-4.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="64" column="13" lean-forward="false" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9000">
+          <caret line="396" column="9" lean-forward="false" selection-start-line="396" selection-start-column="9" selection-end-line="396" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/controller/FileUploadServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="68" column="64" lean-forward="false" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/service/intf/FtpFileServiceIntf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/util/SFTPUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="77" column="11" lean-forward="false" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cxjz/util/FinalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>chengxinjianzhi:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31529412" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (chengxinjianzhi)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31529412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31529412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31529412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>chengxinjianzhi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31529412" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31603774" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

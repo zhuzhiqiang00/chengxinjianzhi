@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cxjz.dao.PartTimePositionMapper" >
+  <resultMap id="BaseResultMap" type="cxjz.model.PartTimePosition" >
+    <id column="part_time_position_id" property="partTimePositionId" jdbcType="VARCHAR" />
+    <result column="position_title" property="positionTitle" jdbcType="VARCHAR" />
+    <result column="position_desc" property="positionDesc" jdbcType="VARCHAR" />
+    <result column="position_salary" property="positionSalary" jdbcType="INTEGER" />
+    <result column="position_demand" property="positionDemand" jdbcType="VARCHAR" />
+    <result column="position_type" property="positionType" jdbcType="VARCHAR" />
+    <result column="position_sex" property="positionSex" jdbcType="VARCHAR" />
+    <result column="recruitment_num" property="recruitmentNum" jdbcType="INTEGER" />
+    <result column="position_pic_url" property="positionPicUrl" jdbcType="VARCHAR" />
+    <result column="work_time" property="workTime" jdbcType="VARCHAR" />
+    <result column="work_location" property="workLocation" jdbcType="VARCHAR" />
+    <result column="creater" property="creater" jdbcType="VARCHAR" />
+    <result column="create_date" property="createDate" jdbcType="TIMESTAMP" />
+    <result column="modifier" property="modifier" jdbcType="VARCHAR" />
+    <result column="modify_date" property="modifyDate" jdbcType="TIMESTAMP" />
+    <result column="state" property="state" jdbcType="SMALLINT" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    part_time_position_id, position_title, position_desc, position_salary, position_demand, 
+    position_type, position_sex, recruitment_num, position_pic_url, work_time, work_location, 
+    creater, create_date, modifier, modify_date, state
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select 
+    <include refid="Base_Column_List" />
+    from part_time_position
+    where part_time_position_id = #{partTimePositionId,jdbcType=VARCHAR}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String" >
+    delete from part_time_position
+    where part_time_position_id = #{partTimePositionId,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="cxjz.model.PartTimePosition" >
+    insert into part_time_position (part_time_position_id, position_title, 
+      position_desc, position_salary, position_demand, 
+      position_type, position_sex, recruitment_num, 
+      position_pic_url, work_time, work_location, 
+      creater, create_date, modifier, 
+      modify_date, state)
+    values (#{partTimePositionId,jdbcType=VARCHAR}, #{positionTitle,jdbcType=VARCHAR}, 
+      #{positionDesc,jdbcType=VARCHAR}, #{positionSalary,jdbcType=INTEGER}, #{positionDemand,jdbcType=VARCHAR}, 
+      #{positionType,jdbcType=VARCHAR}, #{positionSex,jdbcType=VARCHAR}, #{recruitmentNum,jdbcType=INTEGER}, 
+      #{positionPicUrl,jdbcType=VARCHAR}, #{workTime,jdbcType=VARCHAR}, #{workLocation,jdbcType=VARCHAR},
+      #{creater,jdbcType=VARCHAR}, #{createDate,jdbcType=TIMESTAMP}, #{modifier,jdbcType=VARCHAR}, 
+      #{modifyDate,jdbcType=TIMESTAMP}, #{state,jdbcType=SMALLINT})
+  </insert>
+  <insert id="insertSelective" parameterType="cxjz.model.PartTimePosition" >
+    insert into part_time_position
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="partTimePositionId != null" >
+        part_time_position_id,
+      </if>
+      <if test="positionTitle != null" >
+        position_title,
+      </if>
+      <if test="positionDesc != null" >
+        position_desc,
+      </if>
+      <if test="positionSalary != null" >
+        position_salary,
+      </if>
+      <if test="positionDemand != null" >
+        position_demand,
+      </if>
+      <if test="positionType != null" >
+        position_type,
+      </if>
+      <if test="positionSex != null" >
+        position_sex,
+      </if>
+      <if test="recruitmentNum != null" >
+        recruitment_num,
+      </if>
+      <if test="positionPicUrl != null" >
+        position_pic_url,
+      </if>
+      <if test="workTime != null" >
+        work_time,
+      </if>
+      <if test="workLocation != null" >
+        work_location,
+      </if>
+      <if test="creater != null" >
+        creater,
+      </if>
+      <if test="createDate != null" >
+        create_date,
+      </if>
+      <if test="modifier != null" >
+        modifier,
+      </if>
+      <if test="modifyDate != null" >
+        modify_date,
+      </if>
+      <if test="state != null" >
+        state,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="partTimePositionId != null" >
+        #{partTimePositionId,jdbcType=VARCHAR},
+      </if>
+      <if test="positionTitle != null" >
+        #{positionTitle,jdbcType=VARCHAR},
+      </if>
+      <if test="positionDesc != null" >
+        #{positionDesc,jdbcType=VARCHAR},
+      </if>
+      <if test="positionSalary != null" >
+        #{positionSalary,jdbcType=INTEGER},
+      </if>
+      <if test="positionDemand != null" >
+        #{positionDemand,jdbcType=VARCHAR},
+      </if>
+      <if test="positionType != null" >
+        #{positionType,jdbcType=VARCHAR},
+      </if>
+      <if test="positionSex != null" >
+        #{positionSex,jdbcType=VARCHAR},
+      </if>
+      <if test="recruitmentNum != null" >
+        #{recruitmentNum,jdbcType=INTEGER},
+      </if>
+      <if test="positionPicUrl != null" >
+        #{positionPicUrl,jdbcType=VARCHAR},
+      </if>
+      <if test="workTime != null" >
+        #{workTime,jdbcType=VARCHAR},
+      </if>
+      <if test="workLocation != null" >
+        #{workLocation,jdbcType=VARCHAR},
+      </if>
+      <if test="creater != null" >
+        #{creater,jdbcType=VARCHAR},
+      </if>
+      <if test="createDate != null" >
+        #{createDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="modifier != null" >
+        #{modifier,jdbcType=VARCHAR},
+      </if>
+      <if test="modifyDate != null" >
+        #{modifyDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="state != null" >
+        #{state,jdbcType=SMALLINT},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="cxjz.model.PartTimePosition" >
+    update part_time_position
+    <set >
+      <if test="positionTitle != null" >
+        position_title = #{positionTitle,jdbcType=VARCHAR},
+      </if>
+      <if test="positionDesc != null" >
+        position_desc = #{positionDesc,jdbcType=VARCHAR},
+      </if>
+      <if test="positionSalary != null" >
+        position_salary = #{positionSalary,jdbcType=INTEGER},
+      </if>
+      <if test="positionDemand != null" >
+        position_demand = #{positionDemand,jdbcType=VARCHAR},
+      </if>
+      <if test="positionType != null" >
+        position_type = #{positionType,jdbcType=VARCHAR},
+      </if>
+      <if test="positionSex != null" >
+        position_sex = #{positionSex,jdbcType=VARCHAR},
+      </if>
+      <if test="recruitmentNum != null" >
+        recruitment_num = #{recruitmentNum,jdbcType=INTEGER},
+      </if>
+      <if test="positionPicUrl != null" >
+        position_pic_url = #{positionPicUrl,jdbcType=VARCHAR},
+      </if>
+      <if test="workTime != null" >
+        work_time = #{workTime,jdbcType=VARCHAR},
+      </if>
+      <if test="workLocation != null" >
+        work_location = #{workLocation,jdbcType=VARCHAR},
+      </if>
+      <if test="creater != null" >
+        creater = #{creater,jdbcType=VARCHAR},
+      </if>
+      <if test="createDate != null" >
+        create_date = #{createDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="modifier != null" >
+        modifier = #{modifier,jdbcType=VARCHAR},
+      </if>
+      <if test="modifyDate != null" >
+        modify_date = #{modifyDate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="state != null" >
+        state = #{state,jdbcType=SMALLINT},
+      </if>
+    </set>
+    where part_time_position_id = #{partTimePositionId,jdbcType=VARCHAR}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="cxjz.model.PartTimePosition" >
+    update part_time_position
+    set position_title = #{positionTitle,jdbcType=VARCHAR},
+      position_desc = #{positionDesc,jdbcType=VARCHAR},
+      position_salary = #{positionSalary,jdbcType=INTEGER},
+      position_demand = #{positionDemand,jdbcType=VARCHAR},
+      position_type = #{positionType,jdbcType=VARCHAR},
+      position_sex = #{positionSex,jdbcType=VARCHAR},
+      recruitment_num = #{recruitmentNum,jdbcType=INTEGER},
+      position_pic_url = #{positionPicUrl,jdbcType=VARCHAR},
+      work_time = #{workTime,jdbcType=VARCHAR},
+      work_location = #{workLocation,jdbcType=VARCHAR},
+      creater = #{creater,jdbcType=VARCHAR},
+      create_date = #{createDate,jdbcType=TIMESTAMP},
+      modifier = #{modifier,jdbcType=VARCHAR},
+      modify_date = #{modifyDate,jdbcType=TIMESTAMP},
+      state = #{state,jdbcType=SMALLINT}
+    where part_time_position_id = #{partTimePositionId,jdbcType=VARCHAR}
+  </update>
+
+  <select id="selectPartTimePositionCount" resultType="int" parameterType="java.lang.String" >
+    select
+   count(1)
+    from part_time_position
+    where state = 1
+    <if test="_parameter != null">
+     and  position_type = #{strKeyword,jdbcType=VARCHAR}
+    </if>
+  </select>
+
+  <select id="selectPartTimePostionList" resultMap="BaseResultMap" parameterType="java.util.HashMap" >
+    select
+    <include refid="Base_Column_List" />
+    from part_time_position
+    where state = 1
+    <if test="strKeyword != null and strKeyword != ''">
+     and position_type = #{strKeyword}
+    </if>
+    order by create_date desc limit #{startRow},#{pageSize}
+  </select>
+</mapper>
